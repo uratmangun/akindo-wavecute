@@ -1,3 +1,14 @@
+```
+code --wait --new-window --user-data-
+dir "$HOME/.vscode-rdp" --extensions-dir "$HOME/.vscode-rdp-ext" --remote-debugging-port=9
+000 .
+```
+
+```
+OPENCODE_SERVER_USERNAME= OPENCODE_SERVER_PASSWO
+RD= opencode web --hostname 0.0.0.0 --mdns
+```
+
 # Akindo Wave Hacks Dashboard
 
 A Next.js dashboard for browsing active Akindo Wave Hacks, inspecting real-time timelines, and exploring judging details. The app also exposes a Model Context Protocol (MCP) endpoint so external tooling can connect to the same dataset.
