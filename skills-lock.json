@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "akindo": {
+      "source": "uratmangun/aleo-template",
+      "sourceType": "github",
+      "computedHash": "8a0aa3b19ce01d24c627f45d956a4ce5c8c7905f8da8a4e89d351c454fd74670"
+    }
+  }
+}
